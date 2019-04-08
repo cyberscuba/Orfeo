@@ -1,0 +1,3 @@
+"*Radicado*"	"*Fecha Radicado*"	"*Remitente*"	"*Asunto*"	"*Dependencia*"	"*Firma*"	"*Nombre recibe*"	"*Fecha*"
+"201809980000902"	"2018-01-14 10:13 AM"	"SKINA TECNOLOGIES SAS JAIME ENRIQUE GOMEZ SKINA"	"Radicaciones"	"Dependencia de Prueba"	""	""	""
+"201809980000022"	"2018-02-09 12:53 PM"	""	"Radicacion"	"Dependencia de Prueba"	""	""	""

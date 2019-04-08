@@ -1,0 +1,6 @@
+"*Radicado*"	"*Fecha Radicado*"	"*Asunto*"	"*Tipo de Documento*"	"*Remitente*"	"*Valor de factura*"
+	2018-02-23 09:38			201809980000231																		Usuario DE SALIDA			Carrera 64 No 96-17			
+	2018-02-16 13:03			201809980000011			Melissa Villate															Usuario DE SALIDA			Calle 24 A # 59 - 42 Edificio T3 Torre 4 Piso 2			
+	2018-02-23 08:42			201809980000181																		Usuario DE SALIDA			Calle 24 A # 59 - 42 Edificio T3 Torre 4 Piso 2			
+	2018-02-23 08:43			201809980000191																		Usuario DE SALIDA			Calle 24 A # 59 - 42 Edificio T3 Torre 4 Piso 2			
+	2018-02-16 12:51			201809980000052AGENCIA NACIONAL DE INFRAESTUCTURA -- ANI			Melissa Villate									Radicaciones de pruebas						Usuario Administrador			Calle 24 A # 59 - 42 Edificio T3 Torre 4 Piso 2 			

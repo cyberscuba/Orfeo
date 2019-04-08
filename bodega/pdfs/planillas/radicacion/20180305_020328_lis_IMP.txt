@@ -1,0 +1,3 @@
+"*Radicado*"	"*Fecha Radicado*"	"*Asunto*"	"*Tipo de Documento*"	"*Remitente*"	"*Valor de factura*"
+	2018-03-05 11:59			201809980000922AGENCIA NACIONAL DE INFRAESTUCTURA -- ANI												test 						Usuario Administrador			Calle 24 A # 59 - 42 Edificio T3 Torre 4 Piso 2 			
+	2018-03-05 12:53			201809980000932AGENCIA NACIONAL DE INFRAESTUCTURA -- ANI												test 3						Usuario Administrador			Calle 24 A # 59 - 42 Edificio T3 Torre 4 Piso 2 			

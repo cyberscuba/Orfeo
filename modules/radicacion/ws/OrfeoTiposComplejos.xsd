@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Oracle JAX-WS 2.1.5. -->
+<xs:schema xmlns:tns="http://www.accion.com.co/ws/Orfeo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://www.accion.com.co/ws/Orfeo/">
+
+    <xs:element name="AdjuntarDocumento" type="tns:AdjuntarDocumento"/>
+    <xs:element name="AdjuntarDocumentoResponse" type="tns:AdjuntarDocumentoResponse"/>
+    <xs:element name="RadicarDocumento" type="tns:RadicarDocumento"/>
+    <xs:element name="RadicarDocumentoResponse" type="tns:RadicarDocumentoResponse"/>
+    
+    <xs:complexType name="RadicarDocumento">
+        <xs:sequence>
+            <xs:element name="radicarDocumentoRequest" type="tns:radicarDocumentoReq" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="radicarDocumentoReq">
+        <xs:sequence>
+            <xs:element name="destinatario" type="tns:tercero" minOccurs="1"/>
+            <xs:element name="infoRadicado" type="tns:infoRadicado" minOccurs="1"/>
+            <xs:element name="remitente" type="tns:tercero" minOccurs="1"/>
+            <xs:element name="infoControl" type="tns:InfoControl"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="tercero">
+        <xs:sequence>
+            <xs:element name="cargo" type="xs:string" minOccurs="0"/>
+            <xs:element name="direccion" type="tns:direccion" minOccurs="0"/>
+            <xs:element name="email" type="xs:string" minOccurs="0"/>
+            <xs:element name="nombres" type="tns:nombres" minOccurs="1"/>
+            <xs:element name="numeroDocumento" type="xs:string" minOccurs="1"/>
+            <xs:element name="telefono" type="xs:string" minOccurs="0"/>
+            <xs:element name="tipoDocumento" type="tns:tipoDocumento" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="direccion">
+        <xs:sequence>
+            <xs:element name="direccion" type="xs:string" minOccurs="0"/>
+            <xs:element name="idContinente" type="xs:int" minOccurs="0"/>
+            <xs:element name="idDepartamento" type="xs:int" minOccurs="0"/>
+            <xs:element name="idMunicipio" type="xs:int" minOccurs="0"/>
+            <xs:element name="idPais" type="xs:int" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="nombres">
+        <xs:sequence>
+            <xs:element name="primerApellido" type="xs:string" minOccurs="0"/>
+            <xs:element name="primerNombre" type="xs:string" minOccurs="0"/>
+            <xs:element name="razonSocial" type="xs:string" minOccurs="0"/>
+            <xs:element name="segundoApellido" type="xs:string" minOccurs="0"/>
+            <xs:element name="segundoNombre" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="tipoDocumento">
+        <xs:sequence>
+            <xs:element name="descripcion" type="xs:string" minOccurs="0"/>
+            <xs:element name="idTipoDocumento" type="xs:int" minOccurs="0"/>
+            <xs:element name="sigla" type="xs:string" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="infoRadicado">
+        <xs:sequence>
+            <xs:element name="asunto" type="xs:string" minOccurs="1"/>
+            <xs:element name="clasificacion" type="xs:int" minOccurs="1"/>
+            <xs:element name="descripcion" type="xs:string" minOccurs="0"/>
+            <xs:element name="fechaFirma" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="fechaRadicacion" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="palabraClave" type="xs:string" minOccurs="1"/>
+            <xs:element name="regional" type="xs:string" minOccurs="1"/>
+            <xs:element name="serie" type="xs:int" minOccurs="1"/>
+            <xs:element name="subserie" type="xs:int" minOccurs="1"/>
+            <xs:element name="tipoDocumento" type="xs:int" minOccurs="1"/>
+            <xs:element name="tipoRadicado" type="tns:tipoRadicado" minOccurs="1"/>
+            <xs:element name="usuarioActual" type="xs:string" minOccurs="1"/>
+            <xs:element name="usuarioRadicacion" type="xs:string" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="RadicarDocumentoResponse">
+        <xs:sequence>
+            <xs:element name="return" type="tns:radicarDocumentoResp" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="radicarDocumentoResp">
+        <xs:sequence>
+            <xs:element name="destinatario" type="tns:tercero" minOccurs="0"/>
+            <xs:element name="fechaRadicacion" type="xs:dateTime" minOccurs="0"/>
+            <xs:element name="numeroRadicado" type="xs:string" minOccurs="1"/>
+            <xs:element name="remitente" type="tns:tercero" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="AdjuntarDocumento">
+        <xs:sequence>
+            <xs:element name="adjuntarDocumentoRequest" type="tns:adjuntarDocumentoReq" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="adjuntarDocumentoReq">
+        <xs:sequence>
+            <xs:element name="adjunto" type="xs:base64Binary" minOccurs="1"/>
+            <xs:element name="nombreRadicado" type="xs:string" minOccurs="1"/>
+            <xs:element name="numeroRadicado" type="xs:string" minOccurs="1"/>
+            <xs:element name="infoControl" type="tns:InfoControl"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="AdjuntarDocumentoResponse">
+        <xs:sequence>
+            <xs:element name="return" type="tns:adjuntarDocumentoResp" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="adjuntarDocumentoResp">
+        <xs:sequence>
+            <xs:element name="rutaRadicado" nillable="true" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="tipoRadicado">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Entrada"/>
+            <xs:enumeration value="Salida"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="InfoControl">
+        <xs:sequence>
+            <xs:element name="appKey" type="xs:string"/>
+            <xs:element name="hash" type="xs:string"/>
+            <xs:element name="hostname" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

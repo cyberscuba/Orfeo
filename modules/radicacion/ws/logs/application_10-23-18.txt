@@ -1,0 +1,213 @@
+10-23-18 11:58:41 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 11:58:41 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 11:58:41 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 11:58:41 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:01:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:01:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:01:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:01:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:01:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:01:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:01:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:01:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:02:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:02:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:02:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:02:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:05:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:05:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:05:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:05:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:05:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:05:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:05:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:05:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:17:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:17:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:17:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:17:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:21:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:21:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:21:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:21:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:24:11 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:24:11 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:24:11 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:24:11 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:30:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:30:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:30:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:30:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:30:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:30:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:30:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:30:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:31:49 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:31:49 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:31:49 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:31:49 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:54:34 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:54:34 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:54:34 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:54:34 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:55:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:55:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:55:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:55:23 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 12:56:21 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:56:21 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:56:21 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:56:21 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: v
+10-23-18 12:57:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 12:57:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente:  
+10-23-18 12:57:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario:  
+10-23-18 12:57:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: v
+10-23-18 15:54:04 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 15:54:04 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 15:54:04 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: ? ?
+10-23-18 15:54:04 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 16:04:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:04:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:04:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: ? ?
+10-23-18 16:04:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 16:05:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:05:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:05:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: ? ?
+10-23-18 16:05:01 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 16:06:42 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:06:42 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:06:42 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: ? ?
+10-23-18 16:06:42 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: ?
+10-23-18 16:13:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:13:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:13:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:13:59 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:17:55 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:17:55 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:17:55 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:17:55 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:21:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:21:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:21:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:21:56 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:23:38 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:23:38 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:23:38 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:23:38 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:25:24 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:25:24 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:25:24 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:25:24 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:29:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:29:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:29:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:29:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:29:17 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: No se encontó el municipio con Id 11
+10-23-18 16:30:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:30:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:30:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:30:33 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:30:33 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: No se encontó el municipio con Id 11
+10-23-18 16:32:20 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:32:20 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:32:20 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:32:20 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:36:46 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:36:46 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:36:46 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:36:46 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:40:08 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:40:08 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:40:08 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:40:08 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:41:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:41:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:41:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:41:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:42:50 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:42:50 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:42:50 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:42:50 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:47:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:47:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:47:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:47:17 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:48:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:48:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:48:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:48:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:53:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:53:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:53:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:53:37 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:53:37 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 16:58:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 16:58:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 16:58:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 16:58:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 16:58:35 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 17:04:16 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:04:16 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:04:16 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:04:16 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:04:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:04:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:04:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:04:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:04:52 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 17:08:31 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:08:31 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:08:31 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:08:31 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:08:31 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 17:09:27 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:09:27 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:09:27 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:09:27 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:09:27 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:16:28 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:16:28 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:16:28 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:16:28 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:16:28 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:19:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:19:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:19:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:19:52 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:19:52 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:22:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:22:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:22:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:22:19 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:22:19 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:31:06 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:31:06 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:31:06 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:31:06 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:31:06 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9980002281
+10-23-18 17:34:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:34:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:34:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:34:47 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:34:47 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9980002331
+10-23-18 17:35:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:35:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:35:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:35:48 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:39:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:39:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:39:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:39:30 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: 2
+10-23-18 17:39:30 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se guardaron los datos del radicado.
+10-23-18 17:47:53 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:47:53 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:47:53 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:47:53 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: Entrada
+10-23-18 17:52:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:52:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:52:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:52:05 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: Entrada
+10-23-18 17:57:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Se recibe informaciï¿½n del Radicado.
+10-23-18 17:57:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Remitente: ? ?
+10-23-18 17:57:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Destinatario: N/A Jaime Gomez
+10-23-18 17:57:35 172.25.20.2     DEBUG: RadicacionOrfeo.ws.php - 	: Tipo Radicado: Entrada

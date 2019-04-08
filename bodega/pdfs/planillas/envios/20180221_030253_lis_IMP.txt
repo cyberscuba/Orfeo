@@ -1,0 +1,8 @@
+"*Radicado*"	"*Fecha Radicado*"	"*Remitente*"	"*Asunto*"	"*Dependencia*"	"*Firma*"	"*Nombre recibe*"	"*Fecha*"
+"201709980000022"	"2017-12-20 05:11 PM"	"MELISSA VILLATE GERENCIA CONTRACTUAL "	"Radicado de pruebas"	"DIRECTOR DE PROYECTO"	""	""	""
+"201809980000092"	"2018-01-08 05:52 PM"	"SKINA TECNOLOGIES SAS JAIME ENRIQUE GOMEZ SKINA"	"Radicaciones"	"TECNOLOGÍAS DE LA INFORMACIÓN"	""	""	""
+"201809980000132"	"2018-01-09 11:19 AM"	"SKINA TECNOLOGIES SAS JAIME ENRIQUE GOMEZ SKINA"	"Comunicación asignada en la jornada de capacitación"	"Dependencia de Prueba"	""	""	""
+"201809980000472"	"2018-01-10 10:53 AM"	"SKINA TECNOLOGIES SAS JAIME ENRIQUE GOMEZ SKINA"	"Comunicación generada en la jornada de capacitación"	"GERENCIA TÉCNICA"	""	""	""
+"201809980000492"	"2018-01-10 10:56 AM"	"SKINA TECNOLOGIES SAS JAIME ENRIQUE GOMEZ SKINA"	"Comunicación generada en la jornada de capacitación"	"COMUNICACIONES"	""	""	""
+"201809980000772"	"2018-01-11 10:09 AM"	"SKINA TECNOLOGIES SAS JAIME ENRIQUE GOMEZ SKINA"	"Comunicación de entrada en la capacitación"	"GERENCIA DE OPERACIÓN Y MANTENIMIENTO"	""	""	""
+"201809980000481"	"2018-01-25 04:30 PM"	"PEPITO PERZ "	"respuesta radicado XXXXX"	"Dependencia de Prueba"	""	""	""

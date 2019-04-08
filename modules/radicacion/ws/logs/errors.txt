@@ -1,0 +1,13 @@
+10-23-18 16:29:17 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: No se encontó el municipio con Id 11
+10-23-18 16:30:33 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: No se encontó el municipio con Id 11
+10-23-18 16:53:37 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 16:58:35 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 17:04:52 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 17:08:31 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se generï¿½ el nï¿½mero de secuencia
+10-23-18 17:09:27 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:16:28 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:19:52 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:22:19 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9981
+10-23-18 17:31:06 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9980002281
+10-23-18 17:34:47 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. 9980002331
+10-23-18 17:39:30 172.25.20.2     ERROR: RadicacionOrfeo.ws.php - 	: Ha ocurrido el siguiente error: Ha ocurrido un error al guardar el radicado. No se guardaron los datos del radicado.
